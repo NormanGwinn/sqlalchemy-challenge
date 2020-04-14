@@ -7,4 +7,4 @@ The temperature range and extremes are so inviting, as winter turns to spring.
 
 ![/](ExpectedVacationTemperatures.png)
 
-In addition to my favorite speedo and turtleneck, I plan to bring a poncho to handle 0.22" rain.
+In addition to my favorite speedo and turtleneck, I plan to bring a poncho to handle 0.22" of rain.
